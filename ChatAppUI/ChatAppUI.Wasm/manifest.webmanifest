@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "ChatAppUI",
+  "display": "standalone",
+  "name": "ChatAppUI",
+  "short_name": "ChatAppUI",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"ChatAppUI.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"ChatAppUI.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
